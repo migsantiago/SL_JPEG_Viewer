@@ -1,4 +1,6 @@
 //SanLink
+//san.link@yahoo.com.mx
+//http://electrolinks.blogspot.com
 //Programa que lee archivos JPG de cualquier slot,
 //los descomprime y determina si caben en pantalla.
 //Si cabe, lo centra en 640x480 y lo muestra.
